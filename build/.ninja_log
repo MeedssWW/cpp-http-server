@@ -1,0 +1,21 @@
+# ninja log v7
+61	567	8028032500987928	CMakeFiles/http_server.dir/src/logger.cpp.obj	27568598a062eb50
+21	1265	8028032089301551	CMakeFiles/http_server.dir/src/http_response.cpp.obj	8552823c554d544d
+15	1304	8028032089240893	CMakeFiles/http_server.dir/src/http_request.cpp.obj	6fe3062ed8e5359e
+51	1402	8028032089607021	CMakeFiles/http_server.dir/src/router.cpp.obj	f316c51c9c247431
+35	915	8028032500721422	CMakeFiles/http_server.dir/src/static_file_server.cpp.obj	bc997cfd0cd19ce3
+28	1054	8028032500644496	CMakeFiles/http_server.dir/src/socket.cpp.obj	e2d86544a43c6606
+20	1368	8028032500570626	CMakeFiles/http_server.dir/src/main.cpp.obj	81f1fc8b015a48b6
+47	1699	8028032500845700	CMakeFiles/http_server.dir/src/server.cpp.obj	f16193abe995124c
+1699	1936	8028032517366696	http_server.exe	81b2803e86224
+4	863	8028039931732462	build.ninja	f3db0966f616689a
+4	863	8028039931732462	C:/Users/samk1/OneDrive/Desktop/Новая папка (3)/build/cmake_install.cmake	f3db0966f616689a
+122	1191	8028039933235952	CMakeFiles/http_server.dir/src/logger.cpp.obj	27568598a062eb50
+95	1216	8028039932929821	CMakeFiles/http_server.dir/src/router.cpp.obj	f316c51c9c247431
+26	1249	8028039932274642	CMakeFiles/http_server.dir/src/http_request.cpp.obj	6fe3062ed8e5359e
+39	1272	8028039932760909	CMakeFiles/http_server.dir/src/http_response.cpp.obj	8552823c554d544d
+82	1442	8028039932830938	CMakeFiles/http_server.dir/src/static_file_server.cpp.obj	bc997cfd0cd19ce3
+18	1619	8028039932172528	CMakeFiles/http_server.dir/src/socket.cpp.obj	e2d86544a43c6606
+11	1883	8028039932120997	CMakeFiles/http_server.dir/src/main.cpp.obj	81f1fc8b015a48b6
+108	2158	8028039933094725	CMakeFiles/http_server.dir/src/server.cpp.obj	f16193abe995124c
+2158	3089	8028039953595385	http_server.exe	81b2803e86224
