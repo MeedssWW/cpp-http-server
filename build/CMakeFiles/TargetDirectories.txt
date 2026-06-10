@@ -1,3 +1,0 @@
-C:/Users/samk1/OneDrive/Desktop/Новая папка (3)/build/CMakeFiles/http_server.dir
-C:/Users/samk1/OneDrive/Desktop/Новая папка (3)/build/CMakeFiles/edit_cache.dir
-C:/Users/samk1/OneDrive/Desktop/Новая папка (3)/build/CMakeFiles/rebuild_cache.dir
