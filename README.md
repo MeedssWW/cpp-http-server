@@ -1,6 +1,6 @@
 # C++ HTTP Server
 
-[![C++ CI](https://github.com/MeedssWW/cpp-http-server/actions/workflows/cmake.yml/badge.svg)](https://github.com/MeedssWW/cpp-http-server/actions/workflows/cmake.yml)
+[![C++ CI](https://github.com/MeedssWW/cpp-http-server/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/MeedssWW/cpp-http-server/actions/workflows/cmake.yml)
 
 C++ HTTP Server is a small multithreaded web server built from scratch. It is built as a portfolio-oriented backend project demonstrating core concepts: C++17, CMake, raw OS sockets, concurrency, and custom thread pooling.
 
